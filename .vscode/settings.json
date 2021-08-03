@@ -1,0 +1,16 @@
+{
+	"editor.formatOnSave": true,
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.codeActionsOnSave": {
+		"source.fixAll": true
+	},
+	"eslint.alwaysShowStatus": true,
+	"prettier.prettierPath": "_npm/node_modules/prettier",
+	"prettier.configPath": ".prettierrc.json",
+	"[javascript]": {
+		"editor.tabSize": 2
+	},
+	"[typescript]": {
+		"editor.tabSize": 2
+	},
+}
